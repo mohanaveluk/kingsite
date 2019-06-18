@@ -10,5 +10,5 @@ phases:
 	commands:
 	- echo "Entered to the post build phase"
 artifacts:
-		files:
-		  - deploy/**/*
+  files:
+	- deploy/**/*
